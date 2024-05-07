@@ -1,0 +1,11 @@
+{
+    "Id": 320,
+    "Name": "wailmer",
+    "Type": "water",
+    "Abilities": {
+        "Attack": 70,
+        "Defense": 35,
+        "Hp": 130,
+        "Speed": 60
+    }
+}
